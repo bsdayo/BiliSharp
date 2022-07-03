@@ -36,7 +36,7 @@ Console.WriteLine($"简介：{info.Description}");
 ```
 
 输出：
-```csharp
+```text
 BV号：BV1Js411o76u
 标题：【炮姐/AMV】我永远都会守护在你的身边！
 UP：暗猫の祝福
@@ -45,10 +45,20 @@ UP：暗猫の祝福
 记得让弹幕多样化一些噢~喜欢的话点个关注，大感谢~
 ```
 
-三连视频：
+三连视频：  
+首先[获取认证信息](./docs/GetCredential.md)，
 ```csharp
+var credential = new BiliCredential
+{
+    SessData = "<SESSDATA 值>",
+    BiliJct = "<bili_jct> 值",
+    Buvid3 = "<buvid3 值>",
+};
+
+var video = new BiliVideo(170001, credential);
+
 video.SetTriple();
 ```
 
 ## 许可证
-本项目遵循 MIT 许可证开源，欢迎参与贡献。
+本项目遵循 [MIT 许可证](./LICENSE)开源，欢迎参与贡献。
