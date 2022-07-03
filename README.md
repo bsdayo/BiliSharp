@@ -19,9 +19,14 @@
 
 更多功能正在开发中...
 
+## 安装
+```shell
+dotnet add package BiliSharp
+```
+
 ## 示例
 
-查询视频 av810872 的信息
+查询视频 [av810872](https://www.bilibili.com/video/BV1Js411o76u) 的信息
 
 ```csharp
 using BiliSharp;
