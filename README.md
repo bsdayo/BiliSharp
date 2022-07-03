@@ -4,6 +4,11 @@
 
 哔哩哔哩 API 的实用包装
 
+[![C#](https://img.shields.io/badge/.NET-6.0-blue)](#)
+[![NuGet](https://img.shields.io/nuget/v/BiliSharp)](https://www.nuget.org/packages/BiliSharp)  
+[![NuGet](https://img.shields.io/nuget/dt/BiliSharp)](https://www.nuget.org/packages/BiliSharp)
+[![License](https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=lightrey)](./LICENSE)
+
 </div>
 
 ## 特性
