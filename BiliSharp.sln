@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliSharp", "BiliSharp\BiliSharp.csproj", "{3032F9FD-59A2-4C6D-8E25-76FA73BCD22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliSharp.Test", "BiliSharp.Test\BiliSharp.Test.csproj", "{BD441DF6-4432-4D61-8D5C-931540164E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3032F9FD-59A2-4C6D-8E25-76FA73BCD22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3032F9FD-59A2-4C6D-8E25-76FA73BCD22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3032F9FD-59A2-4C6D-8E25-76FA73BCD22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3032F9FD-59A2-4C6D-8E25-76FA73BCD22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD441DF6-4432-4D61-8D5C-931540164E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD441DF6-4432-4D61-8D5C-931540164E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD441DF6-4432-4D61-8D5C-931540164E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD441DF6-4432-4D61-8D5C-931540164E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

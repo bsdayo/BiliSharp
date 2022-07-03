@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <TargetFramework>net6.0</TargetFramework>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Product>BiliSharp</Product>
+        <Title>BiliSharp</Title>
+        <Authors>b1acksoil</Authors>
+        <Description>哔哩哔哩 API 的包装，为开发人员提供简单易用的接口 / bilibili API wrapper, provides easy-to-use interfaces to developers</Description>
+        <Copyright>b1acksoil (C) $([System.DateTime]::Now.Year)</Copyright>
+        <PackageProjectUrl>https://github.com/b1acksoil/BiliSharp</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/b1acksoil/BiliSharp</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>bilibili</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+</Project>
